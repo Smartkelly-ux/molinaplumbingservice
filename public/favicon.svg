@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Porcelain #F4F5F2 Background -->
+  <rect width="64" height="64" rx="14" fill="#F4F5F2" />
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" stroke="#DCE4E1" stroke-width="1.5" />
+  
+  <!-- Architectural 'M' Mark in Deep Blue-Green #183635 -->
+  <path d="M15 48V16H22L32 32.2L42 16H49V48H42.5V26.2L33.8 39.8H30.2L21.5 26.2V48H15Z" fill="#183635" />
+  
+  <!-- Subtle Copper Accent Indicator -->
+  <circle cx="50" cy="45" r="3.5" fill="#C56D4C" />
+</svg>
